@@ -11,12 +11,5 @@ This project implements a new framework for analyzing Laplace transforms using:
 - Analytical classification of functions
 - Unified geometric interpretation
 
-## Run the app
-
-```bash
-pip install -r requirements.txt
-streamlit run angular_hyperbolic_laplace_lab.py
-
-```markdown
-##Author : Rida Jamal Badawi Abu-sokon
+Author : Rida Jamal Badawi Abu-sokon
 live app : https://angular-hyperbolic-laplace-lab.streamlit.app

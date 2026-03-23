@@ -4,7 +4,7 @@ This project implements a new framework for analyzing Laplace transforms using:
 
 - Angular representation (circular geometry)
 - Hyperbolic representation
-- Matrix-based boundary method (MBM)
+
 
 ## Features
 - Interactive Streamlit app
